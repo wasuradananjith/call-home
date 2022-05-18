@@ -39,7 +39,7 @@
         <org.apache.httpcomponents.httpclient>4.5.13</org.apache.httpcomponents.httpclient>
         <org.apache.httpcomponents.httpcore>4.4.13</org.apache.httpcomponents.httpcore>
         <org.yaml.snakeyaml>1.26</org.yaml.snakeyaml>
-        <com.google.code.gson.gson>2.9.0</com.google.code.gson.gson>
+        <com.google.code.gson.gson>2.8.9</com.google.code.gson.gson>
     </properties>
 
     <dependencies>
