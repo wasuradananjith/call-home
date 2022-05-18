@@ -38,7 +38,7 @@
     <properties>
         <org.eclipse.platform>3.14.0</org.eclipse.platform>
         <org.wso2.carbon.core>4.5.2</org.wso2.carbon.core>
-        <org.wso2.carbon.callhome.core>1.0.12</org.wso2.carbon.callhome.core>
+        <org.wso2.carbon.callhome.core>1.0.13</org.wso2.carbon.callhome.core>
     </properties>
 
     <dependencies>
@@ -72,7 +72,7 @@
             <plugin>
                 <groupId>org.apache.felix</groupId>
                 <artifactId>maven-bundle-plugin</artifactId>
-                <version>3.5.0</version>
+                <version>3.2.0</version>
                 <extensions>true</extensions>
                 <configuration>
                     <instructions>
